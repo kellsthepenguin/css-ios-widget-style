@@ -1,0 +1,42 @@
+.widget-small {
+    position: relative;
+    min-height: 150px;
+    border-radius: 25px;
+    background-size: 250px;
+    padding: 20px;
+    width: 150px;
+    height: 125px;
+}
+
+.widget-medium {
+    position: relative;
+    min-height: 150px;
+    border-radius: 25px;
+    background-size: 250px;
+    padding: 20px;
+    width: 300px;
+    height: 125px;
+}
+
+.widget-large {
+    position: relative;
+    min-height: 150px;
+    border-radius: 25px;
+    background-size: 250px;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+}
+
+.widget-title-text {
+    font-weight: lighter;
+    font-size: 25pt;
+    margin-top: -10px;
+}
+
+.widget-description-text {
+    position: absolute;
+    font-weight: normal;
+    font-size: 12pt;
+    bottom: 0;
+}
