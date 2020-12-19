@@ -1,31 +1,25 @@
 .widget-small {
-    position: relative;
-    min-height: 150px;
-    border-radius: 25px;
-    background-size: 250px;
-    padding: 20px;
     width: 150px;
     height: 125px;
 }
 
 .widget-medium {
-    position: relative;
-    min-height: 150px;
-    border-radius: 25px;
-    background-size: 250px;
-    padding: 20px;
     width: 300px;
     height: 125px;
 }
 
 .widget-large {
+    width: 300px;
+    height: 300px;
+}
+
+.widget {
     position: relative;
     min-height: 150px;
     border-radius: 25px;
-    background-size: 250px;
+    background-size: 250px; 
     padding: 20px;
-    width: 300px;
-    height: 300px;
+    box-shadow: 3.5px 2px 2px #80808094;
 }
 
 .widget-title-text {
